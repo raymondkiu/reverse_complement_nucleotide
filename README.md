@@ -1,6 +1,6 @@
 # Reverse complement nucleotide sequences
 ## Introduction
-* This is a Shell script that generate reverse complement of nucleotide sequences.
+* This is a Shell script that generates reverse complement of nucleotide sequences.
 
 ## Usage
 ```
